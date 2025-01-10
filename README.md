@@ -10,10 +10,10 @@ I'm Saeedh, a passionate Cloud/DevOps engineer with a strong background in cloud
 - **Containerization**: Docker, Kubernetes, ECS, EKS  
 - **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions  
 - **Configuration Management**: Ansible  
-- **IaC**: Terraform, CDK, Pulumi  
+- **IaC**: Terraform
 - **Serverless**: SAM, Serverless Framework  
 - **Monitoring**: Prometheus, Grafana, ELK Stack, OTEL, Datadog, Middleware, NewRelic  
-- **Scripting**: Bash, Python, Taskfile  
+- **Scripting**: Bash, Python
 - **Programming**: Typescript, Golang  
 - **Version Control**: Git, GitHub, GitLab  
 - **Security**: Vanta, Snyk, Aikido  
