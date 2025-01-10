@@ -26,3 +26,8 @@ I'm Saeedh, a passionate Cloud/DevOps engineer with a strong background in cloud
 - 🎯 [HackerRank](https://www.hackerrank.com/profile/saeedhmohd244)  
 - 🛠️ [Roadmap](https://roadmap.sh/u/yourprofile)  
 ---
+
+## 📊 GitHub Stats
+
+![Saeedh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeedhmohd244&show_icons=true&theme=radical&hide=stars,issues)
+
