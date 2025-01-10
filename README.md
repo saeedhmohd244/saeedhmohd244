@@ -1,10 +1,10 @@
-# Saeedh Mohammed - Cloud/DevOps Engineer
+## Saeedh Mohammed - Cloud/DevOps Engineer
 
 I'm Saeedh Mohammed, a passionate Cloud/DevOps engineer with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
 
 ---
 
-## 🛠️ Technologies and Tools
+### 🛠️ Technologies and Tools
 
 - **Cloud**: AWS, Azure, DigitalOcean  
 - **Containerization**: Docker, Kubernetes, ECS, EKS  
@@ -20,14 +20,18 @@ I'm Saeedh Mohammed, a passionate Cloud/DevOps engineer with a strong background
 
 ---
 
-## 🌐 How to reach me
+### 🌐 How to reach me
 
 - 💼 [LinkedIn](www.linkedin.com/in/saeedh-mohammed-3a479b316)  
 - 🎯 [HackerRank](https://www.hackerrank.com/profile/saeedhmohd244)  
-- 🛠️ [Roadmap](https://roadmap.sh/u/yourprofile)  
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Saeedh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeedhmohd244&show_icons=true&theme=radical&hide=stars,issues)
+
+### 📊 RoadMap Stats
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/645cbf295e197f85a2c3a804?variant=dark)](https://roadmap.sh)
+
 
