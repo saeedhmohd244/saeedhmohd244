@@ -30,8 +30,4 @@ I'm Saeedh Mohammed, a passionate Cloud/DevOps engineer with a strong background
 
 ![Saeedh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeedhmohd244&show_icons=true&theme=radical&hide=stars,issues)
 
-### 📊 RoadMap Stats
-
-[![roadmap.sh](https://roadmap.sh/mlops)](https://roadmap.sh/u/saeedhmohd)
-
 
